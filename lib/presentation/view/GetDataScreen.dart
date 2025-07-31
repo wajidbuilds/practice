@@ -16,7 +16,7 @@ class _GetDataScreenState extends ConsumerState<GetDataScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: Text("Github Practice"),),
-      body: const Center(child: Text("Hello i am updated now"),),
+      body: const Center(child: Text("ye wajid ney khud kia hay"),),
     );
   }
 }
